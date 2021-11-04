@@ -13,7 +13,7 @@
 - /api/v1.0/precipitation
 - /api/v1.0/stations
 - /api/v1.0/tobs
-- /api/v1.0/<start> and /api/v1.0/<start>/<end>
+- /api/v1.0/start and /api/v1.0/start/end
 
 **4. Temperature Analysis**
 - Performed paired t test to determine whether the difference in the means between temperature from different months is statistically significant
