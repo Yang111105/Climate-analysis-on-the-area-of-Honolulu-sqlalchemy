@@ -1,4 +1,4 @@
-## HW#10 sqlalchemy-challenge Surfs Up!
+## Sqlalchemy Surfs Up!
 
 ### Climate analysis on the area of Honolulu, Hawaii to help with trip planning.
 
